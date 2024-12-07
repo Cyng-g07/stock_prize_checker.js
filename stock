@@ -1,0 +1,11 @@
+/stock-price-checker
+  /public
+    index.html
+    style.css
+    app.js
+  /routes
+    api.js
+  /tests
+    2_functional-tests.js
+  server.js
+  package.json
